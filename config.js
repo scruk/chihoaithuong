@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Yêu mọi người nhiều nhiều 😘😘',
     messDesc: 'Em chào chị Hoài Thương xinh đẹp, là đứa em thẳng thắn của chị đây. Khoảng thời gian 1 năm vừa qua rất đặc biệt với em vì có mọi người trong gia đình SUN và có người chị cả như chị chỉ dẫn tụi em rất tận tình, chị luôn mang đến cho em nguồn năng lượng tích cực, giúp em hoàn thiện bản thân với những lời khuyên sâu sắc, em và mọi người trong team rất biết ơn chị và mong chị sẽ tiếp tục vai trò dẫn dắt tụi em. Em chúc chị ngày càng xinh đẹp, thật nhiều sức khỏe và ngày càng thành công nhé!',
     btnAccept: 'ấn vào đây nếu chị thấy sến',
-    messLink: 'https://youtu.be/4pTjTLbw82M?feature=shared&t=75' 
+    messLink: 'https://youtube.com/shorts/nD_5n64c2PQ?feature=shared' 
 }
